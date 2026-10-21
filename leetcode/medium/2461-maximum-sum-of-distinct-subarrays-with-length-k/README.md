@@ -51,9 +51,9 @@ We return 0 because no subarrays meet the conditions.
 ## Solution
 
 **Language:** Python  
-**Runtime:** 0 ms  
-**Memory:** 18.9 MB  
-**Submitted:** 2026-10-20T15:00:26.351Z  
+**Runtime:** 113 ms (beats 54.03%)  
+**Memory:** 37.2 MB (beats 61.47%)  
+**Submitted:** 2026-10-20T15:00:31.152Z  
 
 ```py
 
