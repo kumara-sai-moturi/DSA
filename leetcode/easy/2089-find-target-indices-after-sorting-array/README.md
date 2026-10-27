@@ -52,9 +52,9 @@ The index where nums[i] == 5 is 4.
 ## Solution
 
 **Language:** Python  
-**Runtime:** 1 ms (beats 33.47%)  
-**Memory:** 19.3 MB (beats 62.71%)  
-**Submitted:** 2026-10-19T10:23:20.442Z  
+**Runtime:** 0 ms (beats 100.00%)  
+**Memory:** 19.1 MB (beats 68.36%)  
+**Submitted:** 2026-10-27T17:02:50.833Z  
 
 ```py
 class Solution:
