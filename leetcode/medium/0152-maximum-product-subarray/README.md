@@ -41,9 +41,9 @@ Explanation: The result cannot be 2, because [-2,-1] is not a subarray.
 ## Solution
 
 **Language:** Python  
-**Runtime:** 0 ms  
-**Memory:** 19.2 MB  
-**Submitted:** 2026-10-30T02:41:01.668Z  
+**Runtime:** 7 ms (beats 35.33%)  
+**Memory:** 19.6 MB (beats 93.00%)  
+**Submitted:** 2026-10-30T02:41:07.355Z  
 
 ```py
 class Solution:
